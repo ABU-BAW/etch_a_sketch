@@ -20,6 +20,7 @@ function numOfSquares(){
     }
 
     container.innerHTML = '';
+    
     //creating the grid boxes
     
     for (let i = 0; i < area; i++){
